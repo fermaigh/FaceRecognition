@@ -1,3 +1,3 @@
 # FaceRecognition
 
-This is a demo for Google Face Recognition
+This is a demo code for Face Detection
